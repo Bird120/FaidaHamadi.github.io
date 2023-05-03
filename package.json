@@ -1,5 +1,5 @@
 {
-  "homepage": "https://bird120.github.io/FaidaHamadi.github.io/",
+  "homepage": "https://bird120.github.io/FaidaHamadi.github.io/src/index.html",
   "name": "my_portfolio",
   "version": "1.0.0",
   "description": "Faïda Hamadi's Portfolio",
@@ -37,6 +37,7 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.0",
     "react-responsive": "^6.0.1",
+    "react-scripts": "^5.0.1",
     "styled-components": "^4.0.3",
     "ua-parser-js": "^0.7.35",
     "vh-check": "^2.0.5"
